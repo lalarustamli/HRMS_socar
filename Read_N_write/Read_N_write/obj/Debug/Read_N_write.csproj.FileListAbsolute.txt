@@ -1,0 +1,14 @@
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\bin\Debug\Read_N_write.exe.config
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\bin\Debug\Read_N_write.exe
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\bin\Debug\Read_N_write.pdb
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.Main_form.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.Properties.Resources.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.csproj.GenerateResource.Cache
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.csproj.CoreCompileInputs.cache
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.exe
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.pdb
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.new_employee.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.main_page.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.employee_list.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.new_document.resources
+C:\Users\ruslala\source\repos\Read_N_write\Read_N_write\obj\Debug\Read_N_write.edit_employees.resources
